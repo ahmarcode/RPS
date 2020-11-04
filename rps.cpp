@@ -12,12 +12,10 @@ int main()
     string rules;
     bool win;
     initial = 10000;
-    invest <= 10000;
     cout << "Your initial money is $" << initial << endl;
     current = initial;
     while(current > 0)
     {
-        invest >= 1;
     max = 3;
     srand(time(0));
     random = (rand() % max) + 1;
