@@ -6,9 +6,8 @@ using namespace std;
 
 int main()
 {
-    int -, max, random, current, initial;
-    string output, input;
-    string rules;
+    int max, random, current, initial, invest, loss, profit;
+    string output, input, rules;
     bool win;
     initial = 10000;
     // invest <= 10000;
