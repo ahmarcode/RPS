@@ -13,7 +13,7 @@ int main()
     while (current > 0)
     {
         
-        cout << "press 1 : play: \nPress 2 : For rules and commands: ";
+        cout << "press 1 : play.\nPress 2 : For rules and commands.\nYour response : ";
         cin >> a;
         if(a == 2)
         {
